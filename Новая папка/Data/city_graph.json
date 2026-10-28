@@ -1,0 +1,272 @@
+{
+    "A": {
+        "B": {
+            "weight": 4,
+            "time": 10
+        },
+        "C": {
+            "weight": 2,
+            "time": 5
+        }
+    },
+    "B": {
+        "A": {
+            "weight": 4,
+            "time": 10
+        },
+        "C": {
+            "weight": 1,
+            "time": 3
+        },
+        "D": {
+            "weight": 5,
+            "time": 12
+        },
+        "F": {
+            "weight": 9,
+            "time": 20
+        }
+    },
+    "C": {
+        "A": {
+            "weight": 2,
+            "time": 5
+        },
+        "B": {
+            "weight": 1,
+            "time": 3
+        },
+        "E": {
+            "weight": 7,
+            "time": 15
+        },
+        "F": {
+            "weight": 4,
+            "time": 8
+        },
+        "H": {
+            "weight": 10,
+            "time": 25
+        }
+    },
+    "D": {
+        "B": {
+            "weight": 5,
+            "time": 12
+        },
+        "E": {
+            "weight": 2,
+            "time": 6
+        },
+        "G": {
+            "weight": 6,
+            "time": 14
+        }
+    },
+    "E": {
+        "C": {
+            "weight": 7,
+            "time": 15
+        },
+        "D": {
+            "weight": 2,
+            "time": 6
+        },
+        "F": {
+            "weight": 1,
+            "time": 2
+        },
+        "H": {
+            "weight": 3,
+            "time": 7
+        },
+        "K": {
+            "weight": 8,
+            "time": 18
+        }
+    },
+    "F": {
+        "B": {
+            "weight": 9,
+            "time": 20
+        },
+        "C": {
+            "weight": 4,
+            "time": 8
+        },
+        "E": {
+            "weight": 1,
+            "time": 2
+        },
+        "H": {
+            "weight": 5,
+            "time": 11
+        },
+        "I": {
+            "weight": 8,
+            "time": 19
+        }
+    },
+    "G": {
+        "D": {
+            "weight": 6,
+            "time": 14
+        },
+        "H": {
+            "weight": 2,
+            "time": 4
+        },
+        "J": {
+            "weight": 7,
+            "time": 16
+        },
+        "N": {
+            "weight": 6,
+            "time": 13
+        }
+    },
+    "H": {
+        "C": {
+            "weight": 10,
+            "time": 25
+        },
+        "E": {
+            "weight": 3,
+            "time": 7
+        },
+        "F": {
+            "weight": 5,
+            "time": 11
+        },
+        "G": {
+            "weight": 2,
+            "time": 4
+        },
+        "I": {
+            "weight": 2,
+            "time": 5
+        },
+        "K": {
+            "weight": 6,
+            "time": 15
+        }
+    },
+    "I": {
+        "F": {
+            "weight": 8,
+            "time": 19
+        },
+        "H": {
+            "weight": 2,
+            "time": 5
+        },
+        "L": {
+            "weight": 4,
+            "time": 10
+        },
+        "M": {
+            "weight": 9,
+            "time": 22
+        }
+    },
+    "J": {
+        "G": {
+            "weight": 7,
+            "time": 16
+        },
+        "K": {
+            "weight": 1,
+            "time": 3
+        },
+        "N": {
+            "weight": 8,
+            "time": 18
+        }
+    },
+    "K": {
+        "E": {
+            "weight": 8,
+            "time": 18
+        },
+        "H": {
+            "weight": 6,
+            "time": 15
+        },
+        "J": {
+            "weight": 1,
+            "time": 3
+        },
+        "L": {
+            "weight": 3,
+            "time": 7
+        },
+        "N": {
+            "weight": 5,
+            "time": 12
+        }
+    },
+    "L": {
+        "I": {
+            "weight": 4,
+            "time": 10
+        },
+        "K": {
+            "weight": 3,
+            "time": 7
+        },
+        "M": {
+            "weight": 2,
+            "time": 5
+        },
+        "O": {
+            "weight": 7,
+            "time": 16
+        }
+    },
+    "M": {
+        "I": {
+            "weight": 9,
+            "time": 22
+        },
+        "L": {
+            "weight": 2,
+            "time": 5
+        },
+        "O": {
+            "weight": 3,
+            "time": 8
+        }
+    },
+    "N": {
+        "G": {
+            "weight": 6,
+            "time": 13
+        },
+        "J": {
+            "weight": 8,
+            "time": 18
+        },
+        "K": {
+            "weight": 5,
+            "time": 12
+        },
+        "O": {
+            "weight": 4,
+            "time": 9
+        }
+    },
+    "O": {
+        "L": {
+            "weight": 7,
+            "time": 16
+        },
+        "M": {
+            "weight": 3,
+            "time": 8
+        },
+        "N": {
+            "weight": 4,
+            "time": 9
+        }
+    }
+}
